@@ -1,0 +1,17 @@
+{
+    "name": "devgeniem/wp-redirection",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "description": "Fork of GravityForms repo so we can use it in our composer architecture.",
+    "authors": [
+        {
+            "name": "wp-premium",
+            "homepage": "http://www.gravityforms.com/"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": "^1.0.12"
+    }
+}
