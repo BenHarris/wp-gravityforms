@@ -1,5 +1,5 @@
 {
-    "name": "devgeniem/wp-redirection",
+    "name": "devgeniem/wp-gravityforms",
     "type": "wordpress-plugin",
     "license": "GPL-3.0",
     "description": "Fork of GravityForms repo so we can use it in our composer architecture.",
